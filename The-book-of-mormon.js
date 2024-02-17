@@ -23,3 +23,6 @@ Examples:
   starting_number = 20_000, reach = 2, target = 7_000_000_000  -->  12
   # Mormons dominate the world after only 12 missions!
 */
+
+
+// Solution
