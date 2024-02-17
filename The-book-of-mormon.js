@@ -31,3 +31,5 @@ function Mormons(startingNumber, reach, target){
   if (startingNumber >= target) return 0;
   return 1 + Mormons(startingNumber + startingNumber * reach, reach, target);
 }
+
+// or
